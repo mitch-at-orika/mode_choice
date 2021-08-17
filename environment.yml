@@ -1,0 +1,9 @@
+name: mode_choice
+channels:
+  - pyviz
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas
+  - panel
+  - scipy
