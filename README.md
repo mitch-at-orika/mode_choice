@@ -2,4 +2,5 @@
 exploration of mode choice models
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mitch-at-orika/mode_choice/HEAD?filepath=https%3A%2F%2Fgithub.com%2Fmitch-at-orika%2Fmode_choice%2Fblob%2Fmain%2FMode_Choice.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mitch-at-orika/mode_choice/HEAD?filepath=Mode_Choice.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mitch-at-orika/mode_choice/blob/main/Mode_Choice.ipynb)
